@@ -8,6 +8,7 @@
 @import url('/css/section-design.css');
 @import url('/css/section-work.css');
 @import url('section-reviews.css');
+@import url('section-form.css');
 
 body {
 	font-family: 'Open Sans', sans-serif;
