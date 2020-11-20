@@ -8,9 +8,10 @@
 @import url('/css/section-lets.css');
 @import url('/css/section-design.css');
 @import url('/css/section-work.css');
-@import url('section-reviews.css');
-@import url('section-form.css');
-@import url('footer.css');
+@import url('/css/section-reviews.css');
+@import url('/css/section-form.css');
+@import url('/css/footer.css');
+@import url('/css/blog.css');
 
 
 body {
